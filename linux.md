@@ -1,7 +1,7 @@
 
-pwd - present working directory</br>
-whoami - it will display the current user</br>
-who - list of all users who currently logged in</br>
+pwd - present working directory </br>
+whoami - it will display the current user </br>
+who - list of all users who currently logged in </br>
 
 w - who logged in and what they are doing</br>
 
